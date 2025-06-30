@@ -308,10 +308,10 @@ $G_t^\lambda=(1-\lambda)\sum_{n=1}^\infty \lambda^{n-1}G_t^n$
     - 更新每个状态s的价值函数
     - 与$TD-\lambda$和资格迹$E_t(s)$呈比例关系
 
-![alt text](image-42.png)
-![alt text](image-43.png)
-![alt text](image-44.png)
-![alt text](image-45.png)
+![alt text](./PIC/image-42.png)
+![alt text](./PIC/image-43.png)
+![alt text](./PIC/image-44.png)
+![alt text](./PIC/image-45.png)
 ### <center>表格型时序差分方法</center>
 #### 概述
 - 强化学习由策略评估和策略改进组成
